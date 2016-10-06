@@ -188,7 +188,7 @@ function gbp_basic (digest, n, k) {
     }
 
     console.log('FOUND SOLUTIONS!')
-    reolve()
+    resolve()
   })
 }
 
